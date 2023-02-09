@@ -1,0 +1,15 @@
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.csproj.AssemblyReference.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.AssemblyInfoInputs.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.AssemblyInfo.cs
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\bin\Debug\net7.0\Sem_5_dz3.exe
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\bin\Debug\net7.0\Sem_5_dz3.deps.json
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\bin\Debug\net7.0\Sem_5_dz3.runtimeconfig.json
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\bin\Debug\net7.0\Sem_5_dz3.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\bin\Debug\net7.0\Sem_5_dz3.pdb
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\refint\Sem_5_dz3.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.pdb
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\Sem_5_dz3.genruntimeconfig.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\Sem_5_dz\Sem_5_dz3\obj\Debug\net7.0\ref\Sem_5_dz3.dll
